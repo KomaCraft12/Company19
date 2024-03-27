@@ -1,0 +1,14 @@
+C:\Users\komar\RiderProjects\company\classlibrary\bin\Debug\net8.0\classlibrary.deps.json
+C:\Users\komar\RiderProjects\company\classlibrary\bin\Debug\net8.0\classlibrary.dll
+C:\Users\komar\RiderProjects\company\classlibrary\bin\Debug\net8.0\classlibrary.pdb
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.AssemblyInfoInputs.cache
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.AssemblyInfo.cs
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.csproj.CoreCompileInputs.cache
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.dll
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\refint\classlibrary.dll
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.pdb
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\ref\classlibrary.dll
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.csproj.AssemblyReference.cache
+C:\Users\komar\RiderProjects\company\classlibrary\bin\Debug\net8.0\classlibrary.runtimeconfig.json
+C:\Users\komar\RiderProjects\company\classlibrary\obj\Debug\net8.0\classlibrary.genruntimeconfig.cache
